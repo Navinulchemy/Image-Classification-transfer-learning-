@@ -1,0 +1,9 @@
+ 1.python 
+ 2.tenserflow
+ 3.keras
+ 4.cv2
+ 5.numpy
+ 6.pil
+ 7.base64
+ 8.streamlit
+ 9.ResNet50
